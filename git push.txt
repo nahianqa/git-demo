@@ -1,0 +1,14 @@
+
+UPLOAD TO GIT
+git init
+ls -alt -- see contents 
+git remote add origin .....(url)https://github.com/nahianqa/OctPomSeries.git
+git status
+git add .
+git status  .... all file shows green
+git commit -m "first commit"
+
+git push origin master
+
+DOWNLOAD FROM GIT
+git clone repo link
