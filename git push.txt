@@ -14,4 +14,8 @@ DOWNLOAD FROM GIT
 git clone repo link
 
 
-Nahian
+After modify code:
+git status - shows which files has changed,
+git add .
+git commit -m "second commit"
+git push origin master
